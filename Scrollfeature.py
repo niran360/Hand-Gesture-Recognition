@@ -1,6 +1,7 @@
 import cv2
 import mediapipe as mp
 from HandTrackingModule import HandDetector
+import pyautogui as py
 
 detector = HandDetector()
 
@@ -12,9 +13,13 @@ while True:
 
     if lmlist:
         fingers, img = detector.fingersUp(img, lmlist)
-        
+
+        if (fingers==[0,0,0,0,0]):
+            py.scroll(-50)
+        elif(fingers==[1,1,1,1,1]):
+            py.scroll(50)
+
         # print (fingers)
-        
     cv2.imshow("Video feed", img)
     key = cv2.waitKey(1)
     if (key == 27):
