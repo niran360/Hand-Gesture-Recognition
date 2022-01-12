@@ -6,7 +6,7 @@ Libraries needed
 <li>mediapipe</li>
 <li>pyautogui</li>
 
-<b>Usage</b>
+<b><br>Usage</b></br>
 
 python Scrollfeature.py
 ![Alt text](C:/Users/sauto_ay/Documents/ACM_VIT_BT/img.png?raw=true )
