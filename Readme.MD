@@ -9,6 +9,10 @@ Libraries needed
 <b><br>Usage</b></br>
 
 python Scrollfeature.py
-![Alt text](C:/Users/sauto_ay/Documents/ACM_VIT_BT/img.png?raw=true )
 
+<br></br>
+
+![Hand](https://raw.githubusercontent.com/niran360/Hand-Gesture-Recognition/master/.github/img.png)
+
+<br></br>
 pip install -r requirements.txt
