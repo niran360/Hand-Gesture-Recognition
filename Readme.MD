@@ -12,7 +12,7 @@ python Scrollfeature.py
 
 <br></br>
 
-![Hand](https://raw.githubusercontent.com/niran360/Hand-Gesture-Recognition/master/.img/img.png )
+![Hand](https://raw.githubusercontent.com/niran360/Hand-Gesture-Recognition/master/img/img.png )
 
 <br></br>
 pip install -r requirements.txt
