@@ -19,7 +19,7 @@ class HandDetector():
                     cx, cy = int(lm.x*w), int(lm.y*h)
 
                     lmlist.append([id,cx,cy])
-                
+
             if draw:
                 drawTools.draw_landmarks(img, handlms, mpHands.HAND_CONNECTIONS)
 
