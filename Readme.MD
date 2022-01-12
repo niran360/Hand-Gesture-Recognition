@@ -7,7 +7,8 @@ Libraries needed
 <li>pyautogui</li>
 
 <b>Usage</b>
+
 python Scrollfeature.py
-![Alt text](C:/Users/sauto_ay/Documents/ACM_VIT_BT/img.png?raw=true "Optional Title")
+![Alt text](C:/Users/sauto_ay/Documents/ACM_VIT_BT/img.png?raw=true )
 
 pip install -r requirements.txt
